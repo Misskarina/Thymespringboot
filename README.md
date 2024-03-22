@@ -9,6 +9,8 @@
 
 
 ## Update Student Data
+![Screenshot (148)](https://github.com/Misskarina/Thymespringboot/assets/126039790/b1776db2-5b0c-48a4-a443-56982a09642f)
+
 
 
 
